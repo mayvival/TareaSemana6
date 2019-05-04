@@ -1,0 +1,117 @@
+
+	
+	#portada
+		{
+  		background-image: url("https://www.caracteristicas.co/wp-content/uploads/2016/04/vidrio-e1460987053265.jpg");
+		background-repeat: no-repeat;
+		background-position: center top;
+		background-size: 1300px 240px;
+		}
+
+	body	{
+		text-align: justify;
+		font-family: Verdana;
+		font-size: 12pt;
+		text-align: left;
+		color:hsl(0, 70%, 35%);
+		background-color: rgb (240,248,255)
+		background-size: 1330px}
+
+
+	h1
+		{text-align: center;
+		font-family:Source Sans Pro Black;
+		font-size:450%;
+		}
+		ul {
+  		list-style-type: none;
+  		margin: 0;
+  		padding: 0;
+  		width: 999px;
+  		background-color: #f1f1f1;
+		}
+
+		li a {
+  		display: block;
+  		color: #000;
+  		padding: 8px 16px;
+  		text-decoration: none;
+		}
+
+		/* Change the link color on hover */
+		li a:hover {
+  		background-color: #555;
+  		color: white;
+		}
+
+
+		
+			
+
+	
+
+
+.menu1 li { margin: 0px 5px; padding: 0.1em 1em 0.5em 1em; 
+           background-color: #9933cc; width: 12%;float: left;
+           list-style-type: none;position: relative;    }
+.menu1 li:hover { background-color: #990033; }
+.menu1 li a:link, #navegador li a:visited { 
+           color: #feffe4; text-decoration: none; }
+.menu1 li a:hover, #navegador li a:active { 
+           color:#ffd7a9 ; text-decoration: none; } 
+
+
+
+
+
+
+
+	#menu2 
+		
+		a:link, a:visited {
+  		background-color: white;
+  		color: black;
+  		padding: 14px 25px;
+  		text-align: center;
+  		text-decoration: none;
+  		display: inline-block;
+		background-size: 1330px}
+
+		a:hover, a:active {
+  		background-color: violet;
+		background-size: 1330px}
+
+	p	
+		{
+		text-align: justify;
+		color:black;
+		font-family:verdana;
+		background-size: 1330px}
+
+
+
+
+	#reloj { width: 150px; height: 25px; padding: 5px 5px; border: 1px solid black; 
+         font: bold 1.5em dotum, "lucida sans", arial; text-align: center;
+         float: right; margin: 1em 3em 1em 1em; }
+	
+
+	#subseccion1 { position: absolute; top: 100%; left: 0px;  
+             background-color: #41338b; font:normal 0.8em arial;  
+             padding: 0.2em 0.5em ; display: none;  }	
+	#subseccion1, #subseccion2, #subseccion3, #subseccion4 
+             { position: absolute; top: 100%; left: 0px;  
+             background-color: #41338b; font:normal 0.8em arial;  
+             padding: 0.2em 0.5em ; display: none; }
+
+	.borrar { clear: both; }
+
+
+
+	#texto {
+		text-align: center 
+		size="100";
+		maxlength="500";
+		} 
+
+	

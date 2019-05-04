@@ -1,0 +1,133 @@
+
+
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title style = "text-align:center"> EL MUNDO MÁGICO DEL VIDRIO </title>
+
+<style>
+	table, tr, td {border: 0px ; padding: 0px;}
+	table {border-spacing: 0px;}
+	table {font-size:100%}
+</style>
+ 
+</head>
+
+<body>
+<table width="720" align="left">
+
+		<th> 
+			<h3 style = "background-color:hsl(0, 70%, 35%); color : white; font-family:verdana;">
+			EL MUNDO MÁGICO DEL VIDRIO </h3> 
+		</th>
+</table>
+
+
+<table style = " font-family:verdana;" width="510" align="left">
+<br/>
+<br/>
+<br/>
+<br/>
+
+	<tr>
+		<td> <p> <b>Autores: </b>TESSY LÓPEZ / ANA MARTÍNEZ </p> </td>  
+	</tr>
+	<tr>
+   		<td> <li style= "color:hsl(0, 70%, 35%)";> COMITE DE SELECCIÓN   </li> </td>  
+ 	</tr>
+  
+  	<tr>
+  		<td><li style= "color:hsl(0, 70%, 35%)";> EDICIONES	</li> </td>
+  	</tr>
+  
+  	<tr>
+    		<td> <li style= "color:hsl(0, 70%, 35%)";> INTRODUCCIÓN </li> </td>
+  	</tr>
+  
+  	<tr>
+    		<td><li style= "color:hsl(0, 70%, 35%)";> I. ¿CÓMO Y CON QUÉ SE HACE EL VIDRIO? </li> </td>
+  	</tr>
+  
+  	<tr>
+    		<td><li style= "color:hsl(0, 70%, 35%)";> II. TIPOS DE VIDRIO </li> </td>
+  	</tr>
+  
+  	<tr>
+    		<td><li style= "color:hsl(0, 70%, 35%)";> III. PROPIEDADES DE LOS VIDRIOS </li> </td>
+		
+  	</tr>
+  
+  	<tr>
+    		<td><li style= "color:hsl(0, 70%, 35%)";> IV. EL VIDRIO SOPLADO </li> </td>
+  	</tr>
+  
+  	<tr>
+    		<td><li style= "color:hsl(0, 70%, 35%)";> V. EL VIDRIO EN EL ARTE </li> </td>
+  	</tr>
+  
+  	<tr>
+    		<td><li style= "color:hsl(0, 70%, 35%)";> VI. EL VIDRIO EN MÉXICO </li> </td>
+  	</tr>
+  
+  	<tr>
+    		<td><li style= "color:hsl(0, 70%, 35%)";> VII. EL VIDRIADO EN CERÁMICA </li> </td>
+  	</tr>
+  
+  	<tr>
+    		<td><li style= "color:hsl(0, 70%, 35%)";> GLOSARIO </li> </td>
+      	</tr>
+  
+  	<tr>
+    		<td><li style= "color:hsl(0, 70%, 35%)";> BIBLIOGRAFÍA </li> </td>
+  	</tr>
+  
+  	<tr>
+   		<td><li style= "color:hsl(0, 70%, 35%)";> CONTRAPORTADA </li> </td>
+  	</tr>
+
+	</table>
+	
+
+
+	<table>
+     	<td style = "text-align:right; width="210 " ><img src="imagen.jpg" width="210" height="306">
+
+		</td>
+    
+  	 </table>
+	
+	
+	
+	
+		<img src= "linea.jpg" width="720" height="12">
+	
+
+	<table>
+		
+		<td> 
+		<a href = "http://bibliotecadigital.ilce.edu.mx/sites/ciencia/menu.htm"> 
+		     		<img src = "1.jpg "width="91" height="61">
+		</a>
+		</td>
+	
+		<td> 
+		<a href= "http://bibliotecadigital.ilce.edu.mx/sites/ciencia/html/quimica.html">
+			<img src = "2.jpg" width="71" height="61" > 
+		</a>
+		</td>
+
+		<td> 
+		<a href = 											"http://bibliotecadigital.ilce.edu.mx/sites/ciencia/volumen3/ciencia3/137/html/sec_1.html">
+			<img src = "3.jpg" width="71" height="61"> 
+		</a>
+		</td>
+</table>
+
+
+		<img src= "linea.jpg" width="720" height="12">
+
+
+
+</body>
+</html>
